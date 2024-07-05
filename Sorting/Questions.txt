@@ -1,0 +1,5 @@
+1. Maximum Tip Calculator (https://www.geeksforgeeks.org/problems/maximum-tip-calculator2631/1)
+
+2. Chocolate Distribution Problem
+(https://www.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1)
+
